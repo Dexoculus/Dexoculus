@@ -32,6 +32,6 @@ Currently a member of the [Intelligence & Computation Lab][1], working as an und
 [2]: https://scholar.google.com/citations?hl=ko&user=8BN1dJ7aXgMC&view_op=list_works&sortby=pubdate
 [3]: https://orcid.org/0009-0007-4713-5892
 [4]: https://www.linkedin.com/in/hyeonbin-han-869312279/
-[5]: https://dexoculus.github.io/
+[5]: page.dexoculus.com
 [6]: https://www.kaggle.com/dexoculus
 [7]: https://pypi.org/user/dexoculus/
