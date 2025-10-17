@@ -1,5 +1,5 @@
 
-[![ORCID](https://a11ybadges.com/badge?logo=orcid)][3][![PyPI](https://a11ybadges.com/badge?logo=pypi)][4] <!--[![LinkedIn](https://a11ybadges.com/badge?logo=linkedin)][5] | [![Kaggle](https://a11ybadges.com/badge?logo=kaggle)][6] --><br>
+[![ORCID](https://a11ybadges.com/badge?logo=orcid)][3][![PyPI](https://a11ybadges.com/badge?logo=pypi)][7] <!--[![LinkedIn](https://a11ybadges.com/badge?logo=linkedin)][5] | [![Kaggle](https://a11ybadges.com/badge?logo=kaggle)][6] --><br>
 
 Hi, I'm Dexoculus.<br>
 Currently a member of the [Intelligence & Computation Lab][1], working as an undergraduate research student under [Prof. Jo][2], since October 2023.
