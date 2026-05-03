@@ -42,43 +42,20 @@ Currently, I am working as a Junior Research Assistant in the Robot Intelligence
 
 ## **Selected Projects**
 
-[![Imitation Learning for Pick and Place](https://github-readme-stats.vercel.app/api/pin/?username=HYU-Internship2-2025H2&repo=HYU-Internship2-2025H2&theme=transparent&hide_border=true)](https://github.com/HYU-Internship2-2025H2/HYU-Internship2-2025H2)
+[![HYU-Internship2-2025H2/HYU-Internship2-2025H2 - GitHub](https://gh-card.dev/repos/HYU-Internship2-2025H2/HYU-Internship2-2025H2.svg)](https://github.com/HYU-Internship2-2025H2/HYU-Internship2-2025H2)
 *Sep. 2025 – Dec. 2025*
-- Industry-coupled problem-based learning (IC-PBL) project sponsored by CMES Robotics.
-- Architected an end-to-end imitation learning pipeline by customizing and forking Hugging Face LeRobot and Robotis Physical AI tools to optimize industrial workflows.
-- Streamlined high-fidelity data acquisition via teleoperation, curating a robust dataset of 200 demonstration episodes.
-- Deployed state-of-the-art policies, including Action Chunking Transformer (ACT) and Diffusion Policy, directly onto the Robotis AI Worker FFW-SG2 platform for real-world execution.
-- Validated model robustness and generalization capabilities by performing exhaustive testing across diverse lighting conditions and environmental variations.
-
 <br>
 
-[![Control Panel Anomaly Detection](https://github-readme-stats.vercel.app/api/pin/?username=Dexoculus&repo=canon-control-pannel-cls&theme=transparent&hide_border=true)](https://github.com/Dexoculus/canon-control-pannel-cls)
+[![Dexoculus/canon-control-pannel-cls - GitHub](https://gh-card.dev/repos/Dexoculus/canon-control-pannel-cls.svg)](https://github.com/Dexoculus/canon-control-pannel-cls)
 *Sep. 2025 – Dec. 2025*
-- Industry-coupled problem-based learning (IC-PBL) project sponsored by CANON Inc.
-- Engineered a dual-stage vision pipeline integrating PatchCore for precise anomaly detection and EfficientNet-B0 for product classification.
-- Optimized inference performance by extracting intermediate features (layers 4 and 6 of EfficientNet-B0) and accelerating K-Nearest Neighbors (KNN) computations through custom PyTorch tensor operations for GPU execution.
-- Architected a comprehensive, no-code web interface using Streamlit to meet client requirements, streamlining the end-to-end workflow from data inspection, augmentation, and preprocessing to training and deployment.
-- Implemented robust MLOps logging mechanisms to systematically track hardware status, terminal outputs, and experimental metrics, ensuring pipeline maintainability and reproducibility.
-
 <br>
 
-[![Box Depalletizing System Development](https://github-readme-stats.vercel.app/api/pin/?username=Dexoculus&repo=box_depalletizing&theme=transparent&hide_border=true)](https://github.com/Dexoculus/box_depalletizing)
+[![Dexoculus/box_depalletizing - GitHub](https://gh-card.dev/repos/Dexoculus/box_depalletizing.svg)](https://github.com/Dexoculus/box_depalletizing)
 *Mar. 2025 – Jun. 2025*
-- Industry-coupled problem-based learning (IC-PBL) project sponsored by CMES Robotics.
-- Architected a robust 3D perception pipeline utilizing YOLOv8m on depth maps, optimizing for real-time inference while ensuring invariance to diverse box textures and environmental lighting.
-- Engineered scalable data augmentation workflow, bridging manual polygon annotations with synthetic depth data generated via Blender to resolve data scarcity and enhance model generalization.
-- Formulated geometric transformations to compute surface normals from depth topography, extracting precise target coordinates and 6-DoF quaternion orientations for the end-effector.
-- Orchestrated the seamless integration between the perception module and the RB5-850 collaborative robot, feeding the calculated spatial vectors into a teaching-based explicit path-planning algorithm.
-
 <br>
 
-[![Hand-held Camera Display State](https://github-readme-stats.vercel.app/api/pin/?username=Dexoculus&repo=hand-held-camera-display-state-classifiation&theme=transparent&hide_border=true)](https://github.com/Dexoculus/hand-held-camera-display-state-classifiation)
+[![Dexoculus/hand-held-camera-display-state-classifiation - GitHub](https://gh-card.dev/repos/Dexoculus/hand-held-camera-display-state-classifiation.svg)](https://github.com/Dexoculus/hand-held-camera-display-state-classifiation)
 *Mar. 2025 – Jun. 2025*
-- Industry-coupled problem-based learning (IC-PBL) project sponsored by CANON Inc.
-- Engineered a lightweight vision pipeline utilizing MobileNetV3-Small, specifically optimizing the architecture for low-latency inference on resource-constrained edge devices.
-- Formulated a targeted data augmentation strategy to account for real-world hand-held artifacts, effectively mitigating occlusion, motion blur, and sensor noise to maximize model generalization.
-- Architected a secure, real-time inference environment via Cloudflare Tunnels (HTTPS), enabling seamless video stream ingestion directly from smartphone cameras to rigorously simulate actual field conditions.
-- Deployed a responsive, mobile-first user interface tailored for on-site technicians, ensuring immediate field applicability and a frictionless end-to-end model serving experience.
 
 ## **Honors & Awards**
 
